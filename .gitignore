@@ -1,2 +1,5 @@
 .claude/
 .DS_Store
+
+# Harness is an in-flux spike — kept local until the scoring standard stabilizes
+harness/
